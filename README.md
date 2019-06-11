@@ -32,6 +32,7 @@ This workshop was created with flexibility in mind. As such, modules are fairly 
 1. [IDE's](./md/ides.md): Using [Jupyter](https://jupyter.org/), [Spyder](https://www.spyder-ide.org/), [nteract](https://nteract.io/), and [Atom](https://ide.atom.io/) to write and launch our code.
 1. [Git](./md/github.md): Version control using [github](https://github.com/) for code development, sharing and collaboration.
 
+Terminado
 
 ### Day 02 (8h)
 
